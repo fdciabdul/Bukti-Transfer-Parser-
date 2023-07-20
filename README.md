@@ -8,3 +8,14 @@ cd Bukti-Transfer-Parser-
 pip install -r requirements.txt
 ```
 
+### running 
+
+```javascript
+
+POST : http://localhost:5000/parse
+
+form-data : 
+
+name `file` value `image_file`
+
+```
